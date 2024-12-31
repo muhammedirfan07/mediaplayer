@@ -1,0 +1,84 @@
+{
+  "uploadVideos": [
+    {
+      "caption": "Demon Salyer",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BMDg2Y2UxYTItMTViNi00ODA5LTljM2ItYzhiZDZmODQwOTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/ub35Ibew1-o",
+      "id": 4
+    },
+    {
+      "caption": "Death Note",
+      "imgUrl": "https://m.media-amazon.com/images/I/716ASj7z2GL._AC_UF1000,1000_QL80_.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/kNyR46eHDxE",
+      "id": 7
+    },
+    {
+      "caption": "bleach",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BMDYyZDEzNzktNDVhNS00MjJiLWJlZjgtY2IzZDY0OTNjMDU3XkEyXkFqcGc@._V1_.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/C1vG62Z-gRU",
+      "id": 2
+    },
+    {
+      "caption": "Vinland saga",
+      "imgUrl": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17127060_b_v8_aa.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/h8-MxeYYwJE",
+      "id": 5
+    },
+    {
+      "caption": "Attack of titan",
+      "imgUrl": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10701949_b_v8_ah.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/F0sqfPkCcyM",
+      "id": 3
+    }
+  ],
+  "category": [
+    {
+      "catagoryName": "anime",
+      "allVideos": [],
+      "id": 1
+    },
+    {
+      "catagoryName": "anime2",
+      "allVideos": [],
+      "id": 2
+    }
+  ],
+  "history": [
+    {
+      "caption": "Attack of titan",
+      "youtubeLink": "https://www.youtube.com/embed/F0sqfPkCcyM",
+      "timeStamp": "12/30/2024, 8:11:40 PM GMT+5:30",
+      "id": 1
+    },
+    {
+      "caption": "bleach",
+      "youtubeLink": "https://www.youtube.com/embed/C1vG62Z-gRU",
+      "timeStamp": "12/30/2024, 8:20:02 PM GMT+5:30",
+      "id": 2
+    },
+    {
+      "caption": "Naruto",
+      "youtubeLink": "https://www.youtube.com/embed/umfzMbPehUk",
+      "timeStamp": "12/30/2024, 9:35:18 PM GMT+5:30",
+      "id": 3
+    },
+    {
+      "caption": "Naruto",
+      "youtubeLink": "https://www.youtube.com/embed/T43Xh4p4LuA",
+      "timeStamp": "12/30/2024, 10:17:35 PM GMT+5:30",
+      "id": 4
+    },
+    {
+      "caption": "Naruto",
+      "youtubeLink": "https://www.youtube.com/embed/T43Xh4p4LuA",
+      "timeStamp": "12/30/2024, 10:30:34 PM GMT+5:30",
+      "id": 5
+    },
+    {
+      "caption": "bleach",
+      "youtubeLink": "https://www.youtube.com/embed/C1vG62Z-gRU",
+      "timeStamp": "12/31/2024, 1:39:37 AM GMT+5:30",
+      "id": 6
+    }
+  ]
+}
